@@ -7,11 +7,20 @@
 
 ## Table of Contents
 
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 
 ---
+
+## Demo
+
+Check out the live demo [here](https://atakandgn.github.io/RegistrationForm/).
+
+---
+
+
 
 ## Features
 
@@ -54,11 +63,17 @@ For communication: reach out to atakandogan.info@gmail.com or [LinkedIn](https:/
 ---
 
 ## İçindekiler
-
+- [Demo](#demo)
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
 
+
+---
+
+## Demo
+
+Check out the live demo [here](https://atakandgn.github.io/RegistrationForm/).
 
 ---
 
