@@ -10,8 +10,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -37,16 +35,10 @@ Open the project in your preferred code editor.
 
 Open index.html in a web browser.
 
-Usage
+##Usage
 Open index.html in a web browser.
 Fill out the registration form.
 Submit the form to see the success message.
-Contributing
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
 
 For communication: reach out to atakandogan.info@gmail.com or [LinkedIn](https://www.linkedin.com/in/atakandoan/) 
 
@@ -66,8 +58,7 @@ For communication: reach out to atakandogan.info@gmail.com or [LinkedIn](https:/
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Katkıda bulunuyor](#katkıda bulunuyor)
-- [Lisans](#lisans)
+
 
 ---
 
@@ -93,7 +84,7 @@ Projeyi tercih ettiğiniz kod düzenleyicide açın.
 
 index.html'yi bir web tarayıcısında açın.
 
-Kullanım
+## Kullanım
 index.html'yi bir web tarayıcısında açın.
 Kayıt formunu doldurun.
 Başarı mesajını görmek için formu gönderin.
