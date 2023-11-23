@@ -46,7 +46,7 @@ fetch('https://run.mocky.io/v3/503ddf67-fb3c-4b72-aa8c-d1c6494f8a47')
         defaultOption.disabled = true;
         areaCodeDropdown.add(defaultOption);
 
-        for (const [areaCode] of Object.entries(turkiyeAreaCodes)) {
+        for (const [city,areaCode] of Object.entries(turkiyeAreaCodes)) {
             const option = document.createElement('option');
             option.value = areaCode;
             option.text = `(${areaCode})`;
