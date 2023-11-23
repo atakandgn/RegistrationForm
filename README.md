@@ -35,14 +35,14 @@ Open the project in your preferred code editor.
 
 Open index.html in a web browser.
 
-##Usage
+## Usage
 Open index.html in a web browser.
 Fill out the registration form.
 Submit the form to see the success message.
 
 For communication: reach out to atakandogan.info@gmail.com or [LinkedIn](https://www.linkedin.com/in/atakandoan/) 
 
-**********************************************-**********************************************-**********************************************-**********************************************-**********************************************-
+**************************************************************************************************************************************************************************************************************************************-
 
 
 # Kayıt formu
