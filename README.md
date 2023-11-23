@@ -73,7 +73,7 @@ For communication: reach out to atakandogan.info@gmail.com or [LinkedIn](https:/
 
 ## Demo
 
-Canlı demoya göz atınmak için [here](https://atakandgn.github.io/RegistrationForm/).
+Canlı demoya göz atınmak için [tıklayınız](https://atakandgn.github.io/RegistrationForm/).
 
 ---
 
